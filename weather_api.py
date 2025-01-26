@@ -1,4 +1,3 @@
-import sys
 from info_file import api_key
 import requests
 import json
